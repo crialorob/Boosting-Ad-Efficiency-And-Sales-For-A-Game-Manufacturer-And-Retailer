@@ -1,4 +1,4 @@
-# Predicting Future Outcomes
+# Boosting Ad Efficiency And Sales & Predicting Future Outcomes For A Game Manufacturer And Retailer
 
 ## Advanced Analytics for Organisational Impact
 
