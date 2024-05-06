@@ -1,4 +1,4 @@
-# Boosting Ad Efficiency And Sales & Predicting Future Outcomes For A Game Manufacturer And Retailer
+# Boosting Ad Efficiency & Sales For A Game Manufacturer And Retailer
 
 ## Advanced Analytics for Organisational Impact
 
