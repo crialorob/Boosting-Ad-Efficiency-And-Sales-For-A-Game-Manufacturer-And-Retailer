@@ -1,6 +1,6 @@
-# Predicting-Future-Outcomes
+# Predicting Future Outcomes
 
-# Advanced Analytics for Organisational Impact
+## Advanced Analytics for Organisational Impact
 
 ### SCENARIO
 
